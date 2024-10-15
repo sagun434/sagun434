@@ -2,7 +2,8 @@
 - 👀 I’m interested in WSN
 - 🌱 I’m currently learning MATLAB
 - 💞️ I’m looking to collaborate on working on Physical Layer of Networking.
-- 📫 How to reach me sagun434@mokpo.ac.kr
+- 📫 How to reach me sagun434@gmail.com
+- 
 
 <!---
 sagun434/sagun434 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
